@@ -3,6 +3,12 @@ selectize-infinite_scroll
 
 Infinite scrolling plugin for Selectize (selectize.js).
 
+Install:
+--------
+```
+bower install selectize-infinite_scroll
+```
+
 Example:
 --------
 ```js
