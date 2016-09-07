@@ -1,0 +1,22 @@
+{
+  "name": "Selectize Infinite Scroll Plugin",
+  "homepage": "https://github.com/jimmyngo/selectize-infinite_scroll",
+  "authors": [
+    "jimmyngo"
+  ],
+  "description": "Infinite scrolling plugin for Selectize.js",
+  "main": "./infinite_scroll/plugin.js",
+  "keywords": [
+    "selectize",
+    "infinite",
+    "scroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
